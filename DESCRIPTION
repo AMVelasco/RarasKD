@@ -4,10 +4,10 @@ Title: Enfermedades raras, generación de muestras sintéticas
 Version: 0.1.0
 Author: AMV
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: 1)Generación de 1000 muestras sintéticas con un grafo de 4 niveles.
+Description: 1)Generación de muestras sintéticas con un grafo de cuatro niveles.
             2) Generación de muestras sintéticas con un grafo de cinco niveles (para hacer pruebas de con el anterior).
             3) Se corre One hot para ambos archivos de muestras sintéticas.
             4) Se miden las distancias de Jaccard (en el ejemplo la ditancia de Jaccard promedio es de 0.10, por ser diferentes ok)
-            5) se propone la función para one class SVM
+            5) Se propone la función para one class SVM
 
 
